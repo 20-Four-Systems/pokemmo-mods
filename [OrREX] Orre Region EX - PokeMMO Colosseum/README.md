@@ -8,6 +8,10 @@ No 'unique' regional assets (such as the music for diffeent Teams) will be cover
 
 I hope you enjoy these mods.
 
+## Released Mods
+`[OrREX] Orre Region EX - Colosseum Menu Music`
+**Replaces the PokeMMO login screen with Colosseum OST tracks.**
+
 ## Sound IDs (by track)
 
 <details>
@@ -16,8 +20,6 @@ I hope you enjoy these mods.
 Replaces alternative login screen music.
 - 2 - 1157
 </details>
-
-
 
 <details>
 	<summary>Normal Battle - Tsukasa Tawada</summary>
