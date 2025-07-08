@@ -2,15 +2,13 @@
 
 ## What is OrREX?
 
-OrREX (or Orre Region EX) is a mod project aiming to organically integrate Pokémon Colosseum assets into PokeMMO. The focus of this ambition is to make a lightweight and non-intrusive flavouring to the already existing experience the game is seeking to achieve.
-
-No 'unique' regional assets (such as the music for diffeent Teams) will be covered in this project. The only aim is to replace assets that are generic and/or not essential i.Trainer battle encounters, which may as well be generic!
+OrREX (or Orre Region EX) is a mod project aiming to organically integrate Orre assets into PokeMMO. The focus of this ambition is to make a lightweight and non-intrusive flavouring to the already existing experience the game is seeking to achieve.
 
 I hope you enjoy these mods.
 
 ## Released Mods
-`[OrREX] Orre Region EX - Colosseum Menu Music`
-**Replaces the PokeMMO login screen with Colosseum OST tracks.**
+**[OrREX] Orre Region EX - Colosseum Menu Music**
+`Replaces the PokeMMO login screen with Colosseum OST tracks.`
 
 ## Sound IDs (by track)
 
@@ -18,7 +16,9 @@ I hope you enjoy these mods.
 	<summary>Main Menu / Lobby / Bonus Disc Menu - Tsukasa Tawada</summary>
 
 Replaces alternative login screen music.
-- 2 - 1157
+| **Asset** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `2/1157` | Main Menu | *Pokémon Colosseum* |
 </details>
 
 <details>
@@ -26,11 +26,13 @@ Replaces alternative login screen music.
 
 Replaces regular Trainer battle music in all regions.
 
-- 0 - 297
-- 1 - 476
-- 2 - 1130
-- 3 - 1115
-- 4 - 1117
+| **Asset** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `0/297` | Trainer Battle | *Pokémon Colosseum* |
+| `1/476` | Trainer Battle | *Pokémon Colosseum* |
+| `2/1130` | Trainer Battle | *Pokémon Colosseum* |
+| `3/1115` | Trainer Battle | *Pokémon Colosseum* |
+| `4/1117` | Trainer Battle | *Pokémon Colosseum* |
 </details>
 
 <details>
@@ -61,5 +63,7 @@ Replaces Pokémon center music in all regions.
 	<summary>Title Screen - Tsukasa Tawada</summary>
 
 Replaces login screen music.
-- 2 - 1159
+| **Asset** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `2/1159` | Alternate Main Menu | *Pokémon XD: Gale of Darkness* |
 </details>
