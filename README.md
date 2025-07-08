@@ -3,7 +3,7 @@ Full list of flavourful mods for PokeMMO.
 
 ## List
 
-### Released Mods
+### Releases
 `[OrREX] Orre Region EX - Colosseum Menu Music`
 **Replaces the PokeMMO login screen with Colosseum OST tracks.**
 
