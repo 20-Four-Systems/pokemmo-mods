@@ -24,6 +24,16 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 </details>
 
 <details>
+	<summary>Gateon Port - Tsukasa Tawada</summary>
+
+| **Sound ID** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `1/360` | Route ?? et al | *Pokémon XD: Gale of Darkness* |
+| `1/418` | Route ?? et al | *Pokémon XD: Gale of Darkness* |
+
+</details>
+
+<details>
 	<summary>Mt. Battle - Tsukasa Tawada</summary>
 
 | **Sound ID** | **Location(s)** | **Game Audio** |
