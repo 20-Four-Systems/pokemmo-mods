@@ -1,13 +1,13 @@
 # PokeMMO Mods
 Full list of flavourful mods for PokeMMO.
 
-## List
-
 ### Releases
-`[OrREX] Orre Region EX - Colosseum Menu Music`
-**Replaces the PokeMMO login screen with Colosseum OST tracks.**
+- **[OrREX] Colosseum Menu Music (v1.0)**
+`Replaces the PokeMMO login screen with Colosseum OST tracks.`
+
+- **[OrREX] Orre Music (Hoenn) (v1.0)**
+`Replaces the regional music of Hoenn with Orre OST tracks.`
 
 ### Planned
-- `[OrREX] Orre Region EX - Colosseum Sound FX`
-- `[OrREX] Orre Region EX - Colosseum Music`
-- `[OrRE]] Orre Region EX - Colosseum UI`
+- `[OrREX] Orre SFX (Hoenn)`
+- `[OrREX] Colosseum UI (PC/Android)`
