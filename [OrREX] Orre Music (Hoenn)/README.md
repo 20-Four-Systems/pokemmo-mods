@@ -5,8 +5,10 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 
 - ~~Update flyable locations~~ **COMPLETE (v1.0)**
 - Update routes
+- Update battle music
 - Update other named locations
 - Update other minor locations
+- Update other soundtracks
 
 ## Sound IDs (by track)
 
@@ -18,6 +20,7 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 | `1/362` | Petalburg City | *Pokémon XD: Gale of Darkness* |
 | `1/363` | Lavaridge Town, Oldale Town | *Pokémon XD: Gale of Darkness* |
 | `1/382` | Fortree City | *Pokémon XD: Gale of Darkness* |
+| `1/401` | Route 104 et al | *Pokémon XD: Gale of Darkness* |
 
 </details>
 
@@ -83,6 +86,7 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 
 | **Sound ID** | **Location(s)** | **Game Audio** |
 | --- | --- | --- |
+| `1/359` | Route 101 et al | *Pokémon XD: Gale of Darkness* |
 | `1/398` | Verdanturf Town | *Pokémon XD: Gale of Darkness* |
 | `1/405` | Littleroot Town | *Pokémon XD: Gale of Darkness* |
 
