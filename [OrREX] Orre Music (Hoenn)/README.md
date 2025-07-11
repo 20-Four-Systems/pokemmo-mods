@@ -1,4 +1,4 @@
-# [OrREX] Orre Music (Hoenn)
+# [OrREX] Orre Music (Hoenn) (v1.0)
 Replaces the regional music of Hoenn with Orre OST tracks.
 
 ## Roadmap
