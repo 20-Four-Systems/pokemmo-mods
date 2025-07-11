@@ -1,6 +1,13 @@
 # [OrREX] Orre Music (Hoenn)
 Replaces the regional music of Hoenn with Orre OST tracks.
 
+## Roadmap
+
+- ~~Update flyable locations~~ **COMPLETE (v1.0)**
+- Update routes
+- Update other named locations
+- Update other minor locations
+
 ## Sound IDs (by track)
 
 <details>
