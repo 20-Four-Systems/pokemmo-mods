@@ -20,7 +20,15 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 | `1/362` | Petalburg City | *Pokémon XD: Gale of Darkness* |
 | `1/363` | Lavaridge Town, Oldale Town | *Pokémon XD: Gale of Darkness* |
 | `1/382` | Fortree City | *Pokémon XD: Gale of Darkness* |
-| `1/401` | Route 104 et al | *Pokémon XD: Gale of Darkness* |
+
+</details>
+
+<details>
+	<summary>Mt. Battle - Tsukasa Tawada</summary>
+
+| **Sound ID** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `1/402` | Route ?? et al | *Pokémon Colosseum* |
 
 </details>
 
@@ -49,6 +57,15 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 | `1/403` | Bike Theme | *Pokémon XD: Gale of Darkness* |
 | `1/408` | Lilycove City, Pacifilog Town | *Pokémon XD: Gale of Darkness* |
 | `1/445` | Sootopolis City | *Pokémon XD: Gale of Darkness* |
+
+</details>
+
+<details>
+	<summary>Phenac City Crisis - Tsukasa Tawada</summary>
+
+| **Sound ID** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `1/359` | Route 101 et al | *Pokémon XD: Gale of Darkness* |
 
 </details>
 
@@ -86,7 +103,6 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 
 | **Sound ID** | **Location(s)** | **Game Audio** |
 | --- | --- | --- |
-| `1/359` | Route 101 et al | *Pokémon XD: Gale of Darkness* |
 | `1/398` | Verdanturf Town | *Pokémon XD: Gale of Darkness* |
 | `1/405` | Littleroot Town | *Pokémon XD: Gale of Darkness* |
 
@@ -115,5 +131,14 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 | **Sound ID** | **Location(s)** | **Game Audio** |
 | --- | --- | --- |
 | `1/476` | Trainer Battle | *Pokémon Colosseum* |
+
+</details>
+
+<details>
+	<summary>World Map - Tsukasa Tawada</summary>
+
+| **Sound ID** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `1/401` | Route 104 et al | *Pokémon Colosseum* |
 
 </details>
