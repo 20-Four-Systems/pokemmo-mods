@@ -22,6 +22,14 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 </details>
 
 <details>
+	<summary>Normal Battle - Tsukasa Tawada</summary>
+
+| **Sound ID** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `1/476` | Trainer Battle | *Pokémon Colosseum* |
+</details>
+
+<details>
 	<summary>Outskirt Stand - Tsukasa Tawada</summary>
 
 | **Sound ID** | **Location(s)** | **Game Audio** |
@@ -38,6 +46,15 @@ Replaces the regional music of Hoenn with Orre OST tracks.
 | --- | --- | --- |
 | `0/408` | Lilycove City, Pacifilog Town | *Pokémon XD: Gale of Darkness* |
 | `0/445` | Sootopolis City | *Pokémon XD: Gale of Darkness* |
+
+</details>
+
+<details>
+	<summary>Pokémon Center - Tsukasa Tawada</summary>
+
+| **Sound ID** | **Location(s)** | **Game Audio** |
+| --- | --- | --- |
+| `1/400` | Pokémon Center | *Pokémon Colosseum* |
 
 </details>
 

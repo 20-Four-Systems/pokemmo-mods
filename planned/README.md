@@ -1,15 +1,3 @@
-# [OrREX] Orre Region EX - PokeMMO Colosseum
-
-## What is OrREX?
-
-OrREX (or Orre Region EX) is a mod project aiming to organically integrate Orre assets into PokeMMO. The focus of this ambition is to make a lightweight and non-intrusive flavouring to the already existing experience the game is seeking to achieve.
-
-I hope you enjoy these mods.
-
-## Released Mods
-**[OrREX] Orre Region EX - Colosseum Menu Music**
-`Replaces the PokeMMO login screen with Colosseum OST tracks.`
-
 ## Sound IDs (by track)
 
 <details>
