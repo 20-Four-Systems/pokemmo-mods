@@ -3,10 +3,10 @@
 ## Sound IDs (by track)
 
 <details>
-	<summary>Phenac City - Tsukasa Tawada</summary>
+	<summary>Fanfare - Victory - Tsukasa Tawada</summary>
 
-Replaces bike theme music.
 | **Sound ID** | **Location(s)** | **Game Audio** |
 | --- | --- | --- |
-| `1/403` | Bike Theme | *Pokémon Colosseum* |
+| `0/412` | Battle Victory | *Pokémon XD: Gale of Darkness* |
+
 </details>
